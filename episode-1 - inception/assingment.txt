@@ -1,0 +1,5 @@
+Q1 - What is crossorigin?
+Ans - The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make requests to load resources on other servers. Here is where CORS comes in. A cross-origin request is a request for a resource (e.g. style sheets, iframes, images, fonts, or scripts) from another domain.
+
+Q2 - What is CDN?
+Ans - A content delivery network is a distributed group of servers that caches content near end users. Learn how CDNs improve load times and reduce costs.
